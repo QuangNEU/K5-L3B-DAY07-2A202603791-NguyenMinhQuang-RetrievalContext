@@ -1,0 +1,44 @@
+[
+    {
+        "id": "test_01",
+        "split": "test",
+        "answerable": true,
+        "question": "Lãi cơ bản trên cổ phiếu (EPS) của Tập đoàn FPT năm 2025 là bao nhiêu?"
+    },
+    {
+        "id": "test_02",
+        "split": "test",
+        "answerable": true,
+        "question": "Doanh thu từ hệ sinh thái Made by FPT năm 2025 đạt bao nhiêu tỷ đồng?"
+    },
+    {
+        "id": "test_03",
+        "split": "test",
+        "answerable": true,
+        "question": "FPT đã đóng góp bao nhiêu tỷ đồng cho Chương trình Trường Hy vọng (Hope School) trong năm 2025?"
+    },
+    {
+        "id": "test_04",
+        "split": "test",
+        "answerable": true,
+        "question": "Thị trường Nhật Bản đóng góp bao nhiêu phần trăm vào tổng doanh thu dịch vụ CNTT nước ngoài của FPT năm 2025?"
+    },
+    {
+        "id": "test_05",
+        "split": "test",
+        "answerable": true,
+        "question": "Quy mô trung tâm dữ liệu mới đạt tiêu chuẩn quốc tế của FPT được đưa vào vận hành có diện tích bao nhiêu m2?"
+    },
+    {
+        "id": "test_06",
+        "split": "test",
+        "answerable": false,
+        "question": "FPT dự kiến đầu tư bao nhiêu tỷ USD vào thị trường Châu Âu năm 2027?"
+    },
+    {
+        "id": "test_07",
+        "split": "test",
+        "answerable": false,
+        "question": "Doanh thu mảng sản xuất xe điện của FPT trong năm 2025 là bao nhiêu?"
+    }
+]

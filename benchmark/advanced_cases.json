@@ -1,0 +1,737 @@
+[
+  {
+    "id": "adv_dev_01",
+    "split": "dev",
+    "category": "Bảng",
+    "answerable": true,
+    "question": "Theo bảng chỉ tiêu tài chính hợp nhất (trang 7), doanh thu thuần năm 2025 của FPT đạt bao nhiêu tỷ đồng?",
+    "expected_answer": "70.113 tỷ đồng",
+    "gold": [
+      {
+        "source_id": "fpt_bctn_2025",
+        "page": 7,
+        "region": "Bảng Chỉ tiêu tài chính",
+        "evidence": "doanh thu của Tập đoàn đạt 70.113 tỷ đồng, tăng 11,6%"
+      }
+    ]
+  },
+  {
+    "id": "adv_dev_02",
+    "split": "dev",
+    "category": "Bảng",
+    "answerable": true,
+    "question": "Theo bảng chỉ tiêu tài chính (trang 7), lợi nhuận trước thuế năm 2025 đạt bao nhiêu tỷ đồng?",
+    "expected_answer": "13.044 tỷ đồng",
+    "gold": [
+      {
+        "source_id": "fpt_bctn_2025",
+        "page": 7,
+        "region": "Bảng Chỉ tiêu tài chính",
+        "evidence": "lợi nhuận trước thuế đạt 13.044 tỷ đồng, tăng 17,8%"
+      }
+    ]
+  },
+  {
+    "id": "adv_dev_03",
+    "split": "dev",
+    "category": "Bảng",
+    "answerable": true,
+    "question": "Theo bảng kết quả khối Viễn thông (trang 7), doanh thu Dịch vụ Viễn thông đạt bao nhiêu tỷ đồng?",
+    "expected_answer": "18.702 tỷ đồng",
+    "gold": [
+      {
+        "source_id": "fpt_bctn_2025",
+        "page": 7,
+        "region": "Bảng Viễn thông",
+        "evidence": "Lĩnh vực Dịch vụ Viễn thông duy trì tăng trưởng bền vững với doanh thu 18.702 tỷ đồng"
+      }
+    ]
+  },
+  {
+    "id": "adv_dev_04",
+    "split": "dev",
+    "category": "Ảnh, sơ đồ",
+    "answerable": true,
+    "question": "Theo sơ đồ hạ tầng số (trang 7), diện tích sàn của trung tâm dữ liệu mới là bao nhiêu m2?",
+    "expected_answer": "10.000 m2",
+    "gold": [
+      {
+        "source_id": "fpt_bctn_2025",
+        "page": 7,
+        "region": "Sơ đồ Hạ tầng",
+        "evidence": "Trung tâm dữ liệu quy mô 10.000 m2 tiêu chuẩn quốc tế được đưa vào vận hành"
+      }
+    ]
+  },
+  {
+    "id": "adv_dev_05",
+    "split": "dev",
+    "category": "Ảnh, sơ đồ",
+    "answerable": true,
+    "question": "Theo sơ đồ bản đồ hiện diện (trang 20), thị trường nào đóng góp doanh thu lớn nhất cho khối CNTT nước ngoài?",
+    "expected_answer": "Thị trường Nhật Bản",
+    "gold": [
+      {
+        "source_id": "fpt_bctn_2025",
+        "page": 20,
+        "region": "Bản đồ Thị trường",
+        "evidence": "Nhật Bản tiếp tục là thị trường đóng góp doanh thu lớn nhất cho khối dịch vụ CNTT nước ngoài"
+      }
+    ]
+  },
+  {
+    "id": "adv_dev_06",
+    "split": "dev",
+    "category": "Ảnh, sơ đồ",
+    "answerable": true,
+    "question": "Theo sơ đồ mạng lưới quốc tế (trang 27), FPT đang có mặt tại bao nhiêu quốc gia?",
+    "expected_answer": "30 quốc gia",
+    "gold": [
+      {
+        "source_id": "fpt_bctn_2025",
+        "page": 27,
+        "region": "Bản đồ Quốc tế",
+        "evidence": "Hiện diện tại 30 quốc gia trên toàn cầu"
+      }
+    ]
+  },
+  {
+    "id": "adv_dev_07",
+    "split": "dev",
+    "category": "Biểu đồ",
+    "answerable": true,
+    "question": "Theo biểu đồ tỷ suất sinh lời ROE (trang 11), chỉ số ROE của FPT năm 2025 đạt mức bao nhiêu %?",
+    "expected_answer": "26,1%",
+    "gold": [
+      {
+        "source_id": "fpt_bctn_2025",
+        "page": 11,
+        "region": "Biểu đồ ROE",
+        "evidence": "ROE năm 2025 đạt mức 26,1%"
+      }
+    ]
+  },
+  {
+    "id": "adv_dev_08",
+    "split": "dev",
+    "category": "Biểu đồ",
+    "answerable": true,
+    "question": "Theo biểu đồ tăng trưởng EPS (trang 7), lãi cơ bản trên cổ phiếu năm 2025 đạt bao nhiêu đồng?",
+    "expected_answer": "5.216 đồng",
+    "gold": [
+      {
+        "source_id": "fpt_bctn_2025",
+        "page": 7,
+        "region": "Biểu đồ EPS",
+        "evidence": "EPS đạt 5.216 đồng, tăng 21,5% so với cùng kỳ"
+      }
+    ]
+  },
+  {
+    "id": "adv_dev_09",
+    "split": "dev",
+    "category": "Biểu đồ",
+    "answerable": true,
+    "question": "Theo biểu đồ tăng trưởng lợi nhuận sau thuế (trang 7), lợi nhuận sau thuế năm 2025 tăng trưởng bao nhiêu %?",
+    "expected_answer": "19,1%",
+    "gold": [
+      {
+        "source_id": "fpt_bctn_2025",
+        "page": 7,
+        "region": "Biểu đồ Lợi nhuận",
+        "evidence": "lợi nhuận sau thuế đạt 11.232 tỷ đồng, tăng 19,1% so với năm trước"
+      }
+    ]
+  },
+  {
+    "id": "adv_dev_10",
+    "split": "dev",
+    "category": "Multi-hop",
+    "answerable": true,
+    "question": "Doanh thu Dịch vụ CNTT nước ngoài đạt bao nhiêu tỷ đồng (trang 7) và tỷ trọng dịch vụ Chuyển đổi số chiếm bao nhiêu % (trang 7)?",
+    "expected_answer": "Doanh thu đạt 34.200 tỷ đồng và Chuyển đổi số chiếm 47,3%",
+    "gold": [
+      {
+        "source_id": "fpt_bctn_2025",
+        "page": 7,
+        "region": "Dịch vụ CNTT nước ngoài",
+        "evidence": "doanh thu đạt 34.200 tỷ đồng"
+      },
+      {
+        "source_id": "fpt_bctn_2025",
+        "page": 7,
+        "region": "Chuyển đổi số",
+        "evidence": "Doanh thu Dịch vụ Chuyển đổi số chiếm 47,3%"
+      }
+    ]
+  },
+  {
+    "id": "adv_dev_11",
+    "split": "dev",
+    "category": "Multi-hop",
+    "answerable": true,
+    "question": "Doanh thu toàn tập đoàn đạt bao nhiêu tỷ đồng (trang 7) và Lợi nhuận sau thuế đạt bao nhiêu tỷ đồng (trang 7)?",
+    "expected_answer": "Doanh thu đạt 70.113 tỷ đồng và Lợi nhuận sau thuế đạt 11.232 tỷ đồng",
+    "gold": [
+      {
+        "source_id": "fpt_bctn_2025",
+        "page": 7,
+        "region": "Chỉ tiêu tài chính",
+        "evidence": "doanh thu của Tập đoàn đạt 70.113 tỷ đồng... lợi nhuận sau thuế đạt 11.232 tỷ đồng"
+      }
+    ]
+  },
+  {
+    "id": "adv_dev_12",
+    "split": "dev",
+    "category": "Multi-hop",
+    "answerable": true,
+    "question": "Lợi nhuận trước thuế khối Viễn thông đạt bao nhiêu tỷ đồng (trang 7) và Lợi nhuận trước thuế toàn tập đoàn đạt bao nhiêu tỷ đồng (trang 7)?",
+    "expected_answer": "Khối Viễn thông đạt 4.167 tỷ đồng và Toàn tập đoàn đạt 13.044 tỷ đồng",
+    "gold": [
+      {
+        "source_id": "fpt_bctn_2025",
+        "page": 7,
+        "region": "Lợi nhuận",
+        "evidence": "lợi nhuận trước thuế 4.167 tỷ đồng... lợi nhuận trước thuế đạt 13.044 tỷ đồng"
+      }
+    ]
+  },
+  {
+    "id": "adv_dev_13",
+    "split": "dev",
+    "category": "Text",
+    "answerable": true,
+    "question": "Sứ mệnh và định hướng công nghệ cốt lõi của FPT là gì (trang 2)?",
+    "expected_answer": "Tiên phong làm chủ các công nghệ chiến lược",
+    "gold": [
+      {
+        "source_id": "fpt_bctn_2025",
+        "page": 2,
+        "region": "Sứ mệnh",
+        "evidence": "FPT kiên định với sứ mệnh tiên phong làm chủ các công nghệ chiến lược"
+      }
+    ]
+  },
+  {
+    "id": "adv_dev_14",
+    "split": "dev",
+    "category": "Text",
+    "answerable": true,
+    "question": "Phương châm đào tạo nhân sự công nghệ của FPT Education gắn với mô hình nào (trang 8)?",
+    "expected_answer": "Mô hình học - ứng dụng - thử nghiệm",
+    "gold": [
+      {
+        "source_id": "fpt_bctn_2025",
+        "page": 8,
+        "region": "Phương châm",
+        "evidence": "đào tạo gắn với mô hình học – ứng dụng – thử nghiệm"
+      }
+    ]
+  },
+  {
+    "id": "adv_dev_15",
+    "split": "dev",
+    "category": "Text",
+    "answerable": true,
+    "question": "Năm 2025 FPT đã đóng góp bao nhiêu tỷ đồng cho chương trình Nâng bước em đến trường (trang 124)?",
+    "expected_answer": "08 tỷ đồng",
+    "gold": [
+      {
+        "source_id": "fpt_bctn_2025",
+        "page": 124,
+        "region": "Cộng đồng",
+        "evidence": "Năm 2025, FPT đã đóng góp 08 tỷ đồng cho Chương trình."
+      }
+    ]
+  },
+  {
+    "id": "adv_dev_16",
+    "split": "dev",
+    "category": "Thiếu bằng chứng",
+    "answerable": false,
+    "question": "Tập đoàn FPT có kế hoạch mở chi nhánh tại Nam Phi vào năm 2026 không?",
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Không có thông tin về kế hoạch mở chi nhánh tại Nam Phi."
+  },
+  {
+    "id": "adv_dev_17",
+    "split": "dev",
+    "category": "Thiếu bằng chứng",
+    "answerable": false,
+    "question": "Doanh thu bán lẻ điện thoại của FPT Retail trong quý 1 năm 2026 đạt bao nhiêu?",
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Không có dữ liệu quý 1 năm 2026."
+  },
+  {
+    "id": "adv_dev_18",
+    "split": "dev",
+    "category": "Thiếu bằng chứng",
+    "answerable": false,
+    "question": "FPT đã đầu tư bao nhiêu tỷ USD vào khai thác mỏ vàng tại Nam Cực?",
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "FPT không đầu tư khai thác khoáng sản hay mỏ vàng tại Nam Cực."
+  },
+  {
+    "id": "adv_test_01",
+    "split": "test",
+    "category": "Bảng",
+    "answerable": true,
+    "question": "Theo bảng Báo cáo của Ban Điều hành (trang 60), tỷ trọng đóng góp doanh thu của khối Công nghệ năm 2025 chiếm bao nhiêu % toàn tập đoàn?",
+    "expected_answer": "Khoảng 58,8% (doanh thu khối Công nghệ là động lực tăng trưởng chính)",
+    "gold": [
+      {
+        "source_id": "fpt_bctn_2025",
+        "page": 60,
+        "region": "Bảng Cơ cấu doanh thu theo khối",
+        "evidence": "khối Công nghệ với hai lĩnh vực là Dịch vụ CNTT cho thị trường nước ngoài và Dịch vụ CNTT cho thị trường trong nước... chiếm tỷ trọng lớn nhất"
+      }
+    ]
+  },
+  {
+    "id": "adv_test_02",
+    "split": "test",
+    "category": "Bảng",
+    "answerable": true,
+    "question": "Theo bảng phân tích hoạt động (trang 65), doanh thu bình quân trên mỗi nhân sự của FPT năm 2025 đạt bao nhiêu triệu đồng?",
+    "expected_answer": "1.116 triệu VNĐ/người (tăng 7,6% so với 1.037 triệu VNĐ năm 2024)",
+    "gold": [
+      {
+        "source_id": "fpt_bctn_2025",
+        "page": 65,
+        "region": "Bảng Năng suất lao động và nhân sự",
+        "evidence": "Doanh thu/người (triệu VNĐ) 1.037 1.116 7,6%"
+      }
+    ]
+  },
+  {
+    "id": "adv_test_03",
+    "split": "test",
+    "category": "Bảng",
+    "answerable": true,
+    "question": "Theo bảng số liệu kết quả kinh doanh khối Viễn thông (trang 70), lợi nhuận trước thuế của khối đạt bao nhiêu tỷ đồng?",
+    "expected_answer": "4.167 tỷ đồng (tăng trưởng 21,9%)",
+    "gold": [
+      {
+        "source_id": "fpt_bctn_2025",
+        "page": 70,
+        "region": "Bảng Kết quả kinh doanh lĩnh vực Dịch vụ Viễn thông",
+        "evidence": "Lĩnh vực Dịch vụ Viễn thông ghi nhận doanh thu đạt 18.702 tỷ đồng và lợi nhuận trước thuế đạt 4.167 tỷ đồng, tăng trưởng tương ứng 10,6% và 21,9%"
+      }
+    ]
+  },
+  {
+    "id": "adv_test_04",
+    "split": "test",
+    "category": "Bảng",
+    "answerable": true,
+    "question": "Theo bảng cơ cấu doanh thu theo khối (trang 60), doanh thu khối Giáo dục, Đầu tư và Khác năm 2025 đạt bao nhiêu tỷ đồng?",
+    "expected_answer": "6.132 tỷ đồng",
+    "gold": [
+      {
+        "source_id": "fpt_bctn_2025",
+        "page": 60,
+        "region": "Bảng Cơ cấu doanh thu theo khối",
+        "evidence": "khối Giáo dục, Đầu tư và Khác... 6.132 tỷ đồng, chiếm 8,8%"
+      }
+    ]
+  },
+  {
+    "id": "adv_test_05",
+    "split": "test",
+    "category": "Bảng",
+    "answerable": true,
+    "question": "Theo bảng nhân sự theo độ tuổi (trang 8), tỷ lệ nhân sự dưới 30 tuổi của FPT chiếm bao nhiêu phần trăm?",
+    "expected_answer": "43,9%",
+    "gold": [
+      {
+        "source_id": "fpt_bctn_2025",
+        "page": 8,
+        "region": "Bảng Cơ cấu độ tuổi nhân sự",
+        "evidence": "Số nhân sự dưới 30 tuổi chiếm 43,9%; số cán bộ quản lý dưới 40 tuổi chiếm 53,2%"
+      }
+    ]
+  },
+  {
+    "id": "adv_test_06",
+    "split": "test",
+    "category": "Bảng",
+    "answerable": true,
+    "question": "Theo bảng chỉ tiêu tài chính hợp nhất (trang 7), lợi nhuận sau thuế của Tập đoàn FPT năm 2025 đạt bao nhiêu tỷ đồng?",
+    "expected_answer": "11.232 tỷ đồng (tăng 19,1%)",
+    "gold": [
+      {
+        "source_id": "fpt_bctn_2025",
+        "page": 7,
+        "region": "Bảng Tổng hợp chỉ tiêu tài chính",
+        "evidence": "lợi nhuận sau thuế đạt 11.232 tỷ đồng, tăng 19,1% so với năm trước"
+      }
+    ]
+  },
+  {
+    "id": "adv_test_07",
+    "split": "test",
+    "category": "Ảnh, sơ đồ",
+    "answerable": true,
+    "question": "Theo thông tin về Ban Chỉ đạo Công nghệ chiến lược (trang 14), ban được thành lập nhằm mục tiêu gì?",
+    "expected_answer": "Làm chủ công nghệ lõi, xây dựng nguồn nhân lực chất lượng cao",
+    "gold": [
+      {
+        "source_id": "fpt_bctn_2025",
+        "page": 14,
+        "region": "Ban Chỉ đạo Công nghệ chiến lược",
+        "evidence": "mục tiêu làm chủ công nghệ lõi, xây dựng nguồn nhân lực chất lượng cao"
+      }
+    ]
+  },
+  {
+    "id": "adv_test_08",
+    "split": "test",
+    "category": "Ảnh, sơ đồ",
+    "answerable": true,
+    "question": "Theo sơ đồ mạng lưới toàn cầu (trang 27), FPT đang hiện diện tại bao nhiêu quốc gia trên thế giới?",
+    "expected_answer": "30 quốc gia",
+    "gold": [
+      {
+        "source_id": "fpt_bctn_2025",
+        "page": 27,
+        "region": "Bản đồ Hiện diện toàn cầu",
+        "evidence": "Hiện diện tại 30 quốc gia trên toàn cầu: Nhật Bản, Mỹ, Hàn Quốc, Trung Quốc, Đức, v.v."
+      }
+    ]
+  },
+  {
+    "id": "adv_test_09",
+    "split": "test",
+    "category": "Ảnh, sơ đồ",
+    "answerable": true,
+    "question": "Theo sơ đồ hành trình khẳng định năng lực (trang 30), mảng chip bán dẫn FPT đã đạt được những dấu ấn nào trong các năm 2022 và 2025?",
+    "expected_answer": "Thành lập FPT Semiconductor, ra mắt chip bán dẫn đầu tiên của Việt Nam và khai trương Trung tâm R&D bán dẫn tại Đà Nẵng",
+    "gold": [
+      {
+        "source_id": "fpt_bctn_2025",
+        "page": 30,
+        "region": "Hành trình bán dẫn",
+        "evidence": "Thành lập công ty FPT Semiconductor và ra mắt chip bán dẫn đầu tiên của Việt Nam... Khai trương Trung tâm R&D 3.000 m2 về công nghệ cao và chip bán dẫn"
+      }
+    ]
+  },
+  {
+    "id": "adv_test_10",
+    "split": "test",
+    "category": "Ảnh, sơ đồ",
+    "answerable": true,
+    "question": "Theo sơ đồ cơ cấu tổ chức và Ủy ban HĐQT (trang 89), Ủy ban Nhân sự và Lương thưởng có chức năng chính là gì?",
+    "expected_answer": "Chỉ đạo xây dựng khung chính sách và quy trình nhân sự, hỗ trợ HĐQT lựa chọn, bổ nhiệm, đãi ngộ và đánh giá nhân sự cao cấp",
+    "gold": [
+      {
+        "source_id": "fpt_bctn_2025",
+        "page": 89,
+        "region": "Sơ đồ Ủy ban HĐQT",
+        "evidence": "Ủy ban Nhân sự và Lương thưởng: Có chức năng chỉ đạo xây dựng khung chính sách và quy trình nhân sự cho Tập đoàn và công ty thành viên"
+      }
+    ]
+  },
+  {
+    "id": "adv_test_11",
+    "split": "test",
+    "category": "Ảnh, sơ đồ",
+    "answerable": true,
+    "question": "Theo sơ đồ kiến trúc hạ tầng (trang 7), Trung tâm Dữ liệu mới của FPT đưa vào vận hành có quy mô diện tích sàn là bao nhiêu?",
+    "expected_answer": "10.000 m2",
+    "gold": [
+      {
+        "source_id": "fpt_bctn_2025",
+        "page": 7,
+        "region": "Sơ đồ Hạ tầng số FPT",
+        "evidence": "Trung tâm dữ liệu quy mô 10.000 m2 tiêu chuẩn quốc tế được đưa vào vận hành"
+      }
+    ]
+  },
+  {
+    "id": "adv_test_12",
+    "split": "test",
+    "category": "Biểu đồ",
+    "answerable": true,
+    "question": "Theo biểu đồ tăng trưởng doanh thu 2021-2025 (trang 7), tổng doanh thu của FPT năm 2025 đạt mốc bao nhiêu tỷ đồng?",
+    "expected_answer": "70.113 tỷ đồng",
+    "gold": [
+      {
+        "source_id": "fpt_bctn_2025",
+        "page": 7,
+        "region": "Biểu đồ Cột Doanh thu 2021-2025",
+        "evidence": "Kết thúc năm 2025, doanh thu của Tập đoàn đạt 70.113 tỷ đồng, tăng 11,6%"
+      }
+    ]
+  },
+  {
+    "id": "adv_test_13",
+    "split": "test",
+    "category": "Biểu đồ",
+    "answerable": true,
+    "question": "Theo biểu đồ hiệu quả hoạt động ROE và ROA (trang 11), tỷ suất sinh lời trên vốn chủ sở hữu (ROE) năm 2025 đạt mức bao nhiêu %?",
+    "expected_answer": "26,1%",
+    "gold": [
+      {
+        "source_id": "fpt_bctn_2025",
+        "page": 11,
+        "region": "Biểu đồ Tỷ suất ROE/ROA",
+        "evidence": "ROE năm 2025 đạt mức 26,1%"
+      }
+    ]
+  },
+  {
+    "id": "adv_test_14",
+    "split": "test",
+    "category": "Biểu đồ",
+    "answerable": true,
+    "question": "Theo biểu đồ Doanh thu hệ sinh thái Made by FPT giai đoạn 2021-2025 (trang 67), xu hướng doanh thu của mảng này như thế nào?",
+    "expected_answer": "Duy trì tăng trưởng liên tục và mạnh mẽ, từ các mốc 746 tỷ, 1.150 tỷ và tiếp tục tăng trưởng hai chữ số",
+    "gold": [
+      {
+        "source_id": "fpt_bctn_2025",
+        "page": 67,
+        "region": "Biểu đồ Doanh thu Made by FPT 2021-2025",
+        "evidence": "Doanh thu hệ sinh thái Made by FPT giai đoạn 2021-2025 tăng trưởng ấn tượng... 746 1.150"
+      }
+    ]
+  },
+  {
+    "id": "adv_test_15",
+    "split": "test",
+    "category": "Biểu đồ",
+    "answerable": true,
+    "question": "Theo thông tin về tăng trưởng dịch vụ Cloud và AI (trang 68), doanh thu thực nhận của mảng này tăng trưởng bao nhiêu % so với năm 2024?",
+    "expected_answer": "48,4%",
+    "gold": [
+      {
+        "source_id": "fpt_bctn_2025",
+        "page": 68,
+        "region": "Tăng trưởng Cloud/AI",
+        "evidence": "doanh thu thực nhận đạt 913 tỷ đồng, tăng trưởng 48,4% so với năm 2024"
+      }
+    ]
+  },
+  {
+    "id": "adv_test_16",
+    "split": "test",
+    "category": "Biểu đồ",
+    "answerable": true,
+    "question": "Theo biểu đồ tăng trưởng EPS (trang 7), lãi cơ bản trên cổ phiếu năm 2025 đạt mức bao nhiêu và tăng trưởng bao nhiêu %?",
+    "expected_answer": "5.216 đồng, tăng trưởng 21,5%",
+    "gold": [
+      {
+        "source_id": "fpt_bctn_2025",
+        "page": 7,
+        "region": "Biểu đồ Tăng trưởng EPS",
+        "evidence": "EPS đạt 5.216 đồng, tăng 21,5% so với cùng kỳ"
+      }
+    ]
+  },
+  {
+    "id": "adv_test_17",
+    "split": "test",
+    "category": "Multi-hop",
+    "answerable": true,
+    "question": "Tổng doanh thu toàn tập đoàn FPT năm 2025 đạt bao nhiêu tỷ đồng (trang 7) và trong đó lĩnh vực Dịch vụ Viễn thông đóng góp bao nhiêu tỷ đồng (trang 70)?",
+    "expected_answer": "Tổng doanh thu đạt 70.113 tỷ đồng và lĩnh vực Dịch vụ Viễn thông đóng góp 18.702 tỷ đồng",
+    "gold": [
+      {
+        "source_id": "fpt_bctn_2025",
+        "page": 7,
+        "region": "Chỉ tiêu tài chính",
+        "evidence": "doanh thu của Tập đoàn đạt 70.113 tỷ đồng"
+      },
+      {
+        "source_id": "fpt_bctn_2025",
+        "page": 70,
+        "region": "Bảng Viễn thông",
+        "evidence": "Lĩnh vực Dịch vụ Viễn thông ghi nhận doanh thu đạt 18.702 tỷ đồng"
+      }
+    ]
+  },
+  {
+    "id": "adv_test_18",
+    "split": "test",
+    "category": "Multi-hop",
+    "answerable": true,
+    "question": "Lợi nhuận trước thuế hợp nhất của FPT năm 2025 tăng trưởng bao nhiêu % (trang 7) và ROE toàn tập đoàn đạt bao nhiêu % (trang 11)?",
+    "expected_answer": "Lợi nhuận trước thuế tăng trưởng 17,8% và ROE đạt 26,1%",
+    "gold": [
+      {
+        "source_id": "fpt_bctn_2025",
+        "page": 7,
+        "region": "Kết quả kinh doanh",
+        "evidence": "lợi nhuận trước thuế đạt 13.044 tỷ đồng, tăng 17,8%"
+      },
+      {
+        "source_id": "fpt_bctn_2025",
+        "page": 11,
+        "region": "Chỉ số sinh lời",
+        "evidence": "ROE năm 2025 đạt mức 26,1%"
+      }
+    ]
+  },
+  {
+    "id": "adv_test_19",
+    "split": "test",
+    "category": "Multi-hop",
+    "answerable": true,
+    "question": "Số lượng nhân sự bình quân năm 2025 là bao nhiêu người (trang 65) và tỷ lệ nhân sự dưới 30 tuổi chiếm bao nhiêu % (trang 8)?",
+    "expected_answer": "Tổng nhân sự bình quân là 31.208 người và tỷ lệ nhân sự dưới 30 tuổi chiếm 43,9%",
+    "gold": [
+      {
+        "source_id": "fpt_bctn_2025",
+        "page": 65,
+        "region": "Nhân sự",
+        "evidence": "Tổng nhân sự bình quân (người) 28.814 31.208"
+      },
+      {
+        "source_id": "fpt_bctn_2025",
+        "page": 8,
+        "region": "Cơ cấu tuổi",
+        "evidence": "Số nhân sự dưới 30 tuổi chiếm 43,9%"
+      }
+    ]
+  },
+  {
+    "id": "adv_test_20",
+    "split": "test",
+    "category": "Multi-hop",
+    "answerable": true,
+    "question": "Doanh thu Dịch vụ CNTT cho thị trường trong nước đạt bao nhiêu tỷ đồng (trang 67) và doanh thu Dịch vụ CNTT cho thị trường nước ngoài đạt bao nhiêu tỷ đồng (trang 7)?",
+    "expected_answer": "Thị trường trong nước đạt 9.093 tỷ đồng và thị trường nước ngoài đạt 34.200 tỷ đồng",
+    "gold": [
+      {
+        "source_id": "fpt_bctn_2025",
+        "page": 67,
+        "region": "CNTT trong nước",
+        "evidence": "Doanh thu lĩnh vực Dịch vụ CNTT cho thị trường trong nước đạt 9.093 tỷ đồng"
+      },
+      {
+        "source_id": "fpt_bctn_2025",
+        "page": 7,
+        "region": "CNTT nước ngoài",
+        "evidence": "doanh thu Dịch vụ CNTT cho thị trường nước ngoài đạt 34.200 tỷ đồng"
+      }
+    ]
+  },
+  {
+    "id": "adv_test_21",
+    "split": "test",
+    "category": "Text",
+    "answerable": true,
+    "question": "Sứ mệnh cốt lõi và định hướng phụng sự của FPT được khẳng định như thế nào ở phần đầu thông điệp (trang 2)?",
+    "expected_answer": "Tiên phong làm chủ công nghệ chiến lược, kiến tạo hạnh phúc cho người dân và doanh nghiệp",
+    "gold": [
+      {
+        "source_id": "fpt_bctn_2025",
+        "page": 2,
+        "region": "Thông điệp Ban Lãnh đạo",
+        "evidence": "Là tập đoàn công nghệ hàng đầu Việt Nam, FPT kiên định với sứ mệnh tiên phong làm chủ các công nghệ chiến lược"
+      }
+    ]
+  },
+  {
+    "id": "adv_test_22",
+    "split": "test",
+    "category": "Text",
+    "answerable": true,
+    "question": "Mô hình đào tạo nhân lực AI và bán dẫn của FPT gắn liền với mô hình nào (trang 8)?",
+    "expected_answer": "Mô hình 'học – ứng dụng – thử nghiệm'",
+    "gold": [
+      {
+        "source_id": "fpt_bctn_2025",
+        "page": 8,
+        "region": "Giáo dục FPT",
+        "evidence": "đào tạo gắn với mô hình 'học – ứng dụng – thử nghiệm' và đẩy mạnh đào tạo nguồn nhân lực công nghệ chiến lược như: AI, bán dẫn"
+      }
+    ]
+  },
+  {
+    "id": "adv_test_23",
+    "split": "test",
+    "category": "Text",
+    "answerable": true,
+    "question": "Dự án Nâng bước em đến trường thuộc Quỹ Hy Vọng được FPT hỗ trợ tài chính bao nhiêu tỷ đồng trong năm 2025 (trang 124)?",
+    "expected_answer": "08 tỷ đồng",
+    "gold": [
+      {
+        "source_id": "fpt_bctn_2025",
+        "page": 124,
+        "region": "Trách nhiệm xã hội",
+        "evidence": "Năm 2025, FPT đã đóng góp 08 tỷ đồng cho Chương trình"
+      }
+    ]
+  },
+  {
+    "id": "adv_test_24",
+    "split": "test",
+    "category": "Text",
+    "answerable": true,
+    "question": "Dịch vụ chuyển đổi số chiếm bao nhiêu phần trăm tổng doanh thu Dịch vụ CNTT cho thị trường nước ngoài của FPT (trang 7)?",
+    "expected_answer": "47,3%",
+    "gold": [
+      {
+        "source_id": "fpt_bctn_2025",
+        "page": 7,
+        "region": "Chuyển đổi số",
+        "evidence": "Doanh thu Dịch vụ Chuyển đổi số chiếm 47,3% tổng doanh thu Dịch vụ CNTT cho thị trường nước ngoài"
+      }
+    ]
+  },
+  {
+    "id": "adv_test_25",
+    "split": "test",
+    "category": "Thiếu bằng chứng",
+    "answerable": false,
+    "question": "FPT có kế hoạch mua lại một nhà máy sản xuất ô tô điện tại Đức vào quý 3 năm 2026 không?",
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Tài liệu BCTN FPT 2025 không có bất kỳ thông tin nào về kế hoạch mua lại nhà máy sản xuất ô tô điện tại Đức."
+  },
+  {
+    "id": "adv_test_26",
+    "split": "test",
+    "category": "Thiếu bằng chứng",
+    "answerable": false,
+    "question": "Doanh thu của chi nhánh FPT tại Nam Phi năm 2025 đạt bao nhiêu triệu USD?",
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "FPT chưa mở chi nhánh hoạt động tại Nam Phi nên không có doanh thu này."
+  },
+  {
+    "id": "adv_test_27",
+    "split": "test",
+    "category": "Thiếu bằng chứng",
+    "answerable": false,
+    "question": "Lợi nhuận trước thuế dự kiến của Tập đoàn FPT cho năm tài chính 2030 là bao nhiêu nghìn tỷ đồng?",
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Tài liệu chỉ công bố kết quả năm 2025 và nhận định ngắn hạn 2026-2028, không có số liệu dự kiến cho năm 2030."
+  },
+  {
+    "id": "adv_test_28",
+    "split": "test",
+    "category": "Thiếu bằng chứng",
+    "answerable": false,
+    "question": "FPT đã thực hiện phóng bao nhiêu vệ tinh viễn thông địa tĩnh lên quỹ đạo trong năm 2025?",
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "FPT không kinh doanh dịch vụ sản xuất và phóng vệ tinh quỹ đạo."
+  },
+  {
+    "id": "adv_test_29",
+    "split": "test",
+    "category": "Thiếu bằng chứng",
+    "answerable": false,
+    "question": "Ngân sách chi cho hoạt động nghiên cứu phát triển vũ khí quân sự của FPT năm 2025 là bao nhiêu?",
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "FPT là tập đoàn công nghệ dân sự, không có ngân sách nghiên cứu phát triển vũ khí quân sự."
+  },
+  {
+    "id": "adv_test_30",
+    "split": "test",
+    "category": "Thiếu bằng chứng",
+    "answerable": false,
+    "question": "Tỷ lệ cổ phần do các nhà đầu tư tại vùng Bắc Cực nắm giữ tại FPT là bao nhiêu %?",
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Báo cáo cơ cấu cổ đông không ghi nhận nhà đầu tư thuộc vùng Bắc Cực."
+  }
+]

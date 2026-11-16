@@ -1,0 +1,33 @@
+{
+  "split": "test",
+  "total_cases": 30,
+  "total_passed": 20,
+  "pass_rate": 66.66666666666666,
+  "meets_advanced_threshold": false,
+  "by_category": {
+    "Bảng": {
+      "total": 6,
+      "passed": 4
+    },
+    "Ảnh, sơ đồ": {
+      "total": 5,
+      "passed": 2
+    },
+    "Biểu đồ": {
+      "total": 5,
+      "passed": 3
+    },
+    "Multi-hop": {
+      "total": 4,
+      "passed": 3
+    },
+    "Text": {
+      "total": 4,
+      "passed": 2
+    },
+    "Thiếu bằng chứng": {
+      "total": 6,
+      "passed": 6
+    }
+  }
+}

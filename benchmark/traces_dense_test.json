@@ -1,0 +1,389 @@
+[
+  {
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "lãi cơ bản trên cổ phiếu (EPS) Tập đoàn FPT năm 2025",
+        "filter": null,
+        "results": [
+          {
+            "id": "4044",
+            "text": " 2026 nhằm nâng cao hiệu quả vận hành và năng lực cạnh tranh. Kết quả này không chỉ LNST 9.427 11.232 19,1%\nphản ánh xu hướng chuyển dịch mạnh mẽ sang chuyển đổi số thế hệ mới, mà còn\nĐánh giá của HĐQT về hoạt động\nkhẳng định vị thế và năng lực cung cấp các dịch vụ công nghệ tiên tiến của FPT Lãi cơ bản trên cổ phiếu (*) 4.292 5.216 21,5%\ncủa Tập đoàn\ntrên thị trường quốc tế.\nCổ tức tiền mặt trả trong năm 2.741 3.185 16,2%\n06 QUẢN TRỊ CÔNG TY\nSong song với hoạt động kinh doanh, FPT tiếp tục đẩy ",
+            "source_id": "fpt_bctn_2025",
+            "source": "fpt_bctn_2025",
+            "page": 58,
+            "metadata": {
+              "section": "08 BÁO CÀO TÀI CHÍNH HỢP NHẤT"
+            },
+            "score": 0.7880038528433196
+          },
+          {
+            "id": "4051",
+            "text": "g đòn bẩy tài chính ở mức\n02 DẤU ẤN 2025 hợp lý để hỗ trợ cho tăng trưởng. Đáng chú ý, Tập đoàn vẫn duy trì trạng thái tiền mặt 1.Chỉ tiêu về khả năng thanh toán\nròng dương, bảo đảm an toàn tài chính và duy trì dư địa vốn cho các cơ hội đầu tư\nHệ số thanh toán ngắn hạn (lần) 1,31 1,40\n03 TỔNG QUAN VỀ FPT chiến lược trong tương lai.\nHệ số thanh toán nhanh (lần) 1,25 1,35\n04 CHIẾN LƯỢC PHÁT TRIỂN Chỉ tiêu về năng lực hoạt động\n2.Chỉ tiêu về cơ cấu vốn và đảm bảo lãi vay\nHiệu quả vận hành tiếp tục ",
+            "source_id": "fpt_bctn_2025",
+            "source": "fpt_bctn_2025",
+            "page": 59,
+            "metadata": {
+              "section": "08 BÁO CÀO TÀI CHÍNH HỢP NHẤT"
+            },
+            "score": 0.7879097461700664
+          },
+          {
+            "id": "4334",
+            "text": " CÁO ESG FPT đã bám sát kế hoạch kinh doanh năm 2025. FPT triển khai hiệu quả Nghị quyết ĐHĐCĐ thường FPT đã phản ứng kịp thời và phù hợp trước sự suy\nMặc dù kinh tế toàn cầu chậm lại và đối mặt với các niên 2025, thúc đẩy tăng trưởng và tạo giá trị bền vững giảm của kinh tế toàn cầu cũng như các thách thức\nthách thức địa chính trị, FPT vẫn triển khai thành cho cổ đông và các bên liên quan bất chấp thách thức địa chính trị, thể hiện tinh thần quyết tâm cao và bền bỉ.\n08 BÁO CÀO TÀI CHÍNH HỢP NHẤ",
+            "source_id": "fpt_bctn_2025",
+            "source": "fpt_bctn_2025",
+            "page": 102,
+            "metadata": {
+              "section": "08 BÁO CÀO TÀI CHÍNH HỢP NHẤT"
+            },
+            "score": 0.7809993215801814
+          }
+        ],
+        "context": "[4044 | fpt_bctn_2025 | page 58]\n 2026 nhằm nâng cao hiệu quả vận hành và năng lực cạnh tranh. Kết quả này không chỉ LNST 9.427 11.232 19,1%\nphản ánh xu hướng chuyển dịch mạnh mẽ sang chuyển đổi số thế hệ mới, mà còn\nĐánh giá của HĐQT về hoạt động\nkhẳng định vị thế và năng lực cung cấp các dịch vụ công nghệ tiên tiến của FPT Lãi cơ bản trên cổ phiếu (*) 4.292 5.216 21,5%\ncủa Tập đoàn\ntrên thị trường quốc tế.\nCổ tức tiền mặt trả trong năm 2.741 3.185 16,2%\n06 QUẢN TRỊ CÔNG TY\nSong song với hoạt động kinh doanh, FPT tiếp tục đẩy ",
+        "context_ids": [
+          "4044"
+        ]
+      },
+      {
+        "event": "invalid_or_missing_citations"
+      }
+    ],
+    "query_id": "test_01"
+  },
+  {
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "lợi nhuận sau thuế 2025 FPT",
+        "filter": null,
+        "results": [
+          {
+            "id": "4064",
+            "text": "LÀM CHỦ Năm 2025, lĩnh vực Dịch vụ CNTT cho thị trường nước ngoài tiếp tục giữ vai trò trụ Tại khu vực châu Á-Thái Bình Dương, FPT gia tăng hiện diện trong các ngành\nCÔNG NGHỆ CHIẾN LƯỢC cột trong chiến lược tăng trưởng của Tập đoàn với doanh thu đạt 35.382 tỷ đồng, công nghiệp trọng điểm, đặc biệt là năng lượng và sản xuất. Hợp đồng chuyển đổi\nBÁO CÁO THƯỜNG NIÊN 2025 tăng 14,3%; lợi nhuận trước thuế đạt 5.467 tỷ đồng, tăng 14,6%. Kết quả này đạt số toàn diện và ứng dụng AI trị giá 256 triệu US",
+            "source_id": "fpt_bctn_2025",
+            "source": "fpt_bctn_2025",
+            "page": 62,
+            "metadata": {
+              "section": "08 BÁO CÀO TÀI CHÍNH HỢP NHẤT"
+            },
+            "score": 0.8182039585941624
+          },
+          {
+            "id": "5003",
+            "text": "TỔNG QUAN VỀ FPT động tại Việt Nam có nghĩa vụ nộp thuế TNDN với thuế suất 10% trên lợi nhuận\nChi phí nhân viên 5.172.975.838.113 4.076.793.428.900 chịu thuế đối với hoạt động cung cấp dịch vụ đào tạo; thuế suất ưu đãi theo địa\n04 CHIẾN LƯỢC PHÁT TRIỂN bàn đối với hoạt động sản xuất kinh doanh của một số đơn vị trong các khu công\nKhác (*) 2.389.684.802.341 2.039.168.542.883\nnghệ cao; và 20% trên lợi nhuận chịu thuế đối với các hoạt động sản xuất kinh\n7.562.660.640.454 6.115.961.971.783 doanh còn",
+            "source_id": "fpt_bctn_2025",
+            "source": "fpt_bctn_2025",
+            "page": 210,
+            "metadata": {
+              "section": "08 BÁO CÀO TÀI CHÍNH HỢP NHẤT"
+            },
+            "score": 0.8132811220829297
+          },
+          {
+            "id": "3777",
+            "text": "g yếu gồm Cơ sở dữ liệu Hộ tịch\nKết thúc năm 2025, doanh thu của Tập đoàn đạt 70.113 tỷ đồng, tăng 11,6%; điện tử và Cơ sở dữ liệu Quốc gia về Tài chính; đồng thời vận hành Nền tảng số\nThông điệp Chủ tịch HĐQT lợi nhuận trước thuế đạt 13.044 tỷ đồng, tăng 17,8%; lợi nhuận sau thuế đạt 11.232 Thi hành án dân sự và Cổng Pháp luật Quốc gia. Hệ sinh thái Made by FPT tiếp tục\nThông điệp Tổng Giám đốc tỷ đồng, tăng 19,1% so với năm trước. EPS đạt 5.216 đồng, tăng 21,5% so với cùng duy trì tăng trưởng ",
+            "source_id": "fpt_bctn_2025",
+            "source": "fpt_bctn_2025",
+            "page": 7,
+            "metadata": {
+              "section": "08 BÁO CÁO TÀI CHÍNH HỢP NHẤT"
+            },
+            "score": 0.8126319832549295
+          }
+        ],
+        "context": "[4064 | fpt_bctn_2025 | page 62]\nLÀM CHỦ Năm 2025, lĩnh vực Dịch vụ CNTT cho thị trường nước ngoài tiếp tục giữ vai trò trụ Tại khu vực châu Á-Thái Bình Dương, FPT gia tăng hiện diện trong các ngành\nCÔNG NGHỆ CHIẾN LƯỢC cột trong chiến lược tăng trưởng của Tập đoàn với doanh thu đạt 35.382 tỷ đồng, công nghiệp trọng điểm, đặc biệt là năng lượng và sản xuất. Hợp đồng chuyển đổi\nBÁO CÁO THƯỜNG NIÊN 2025 tăng 14,3%; lợi nhuận trước thuế đạt 5.467 tỷ đồng, tăng 14,6%. Kết quả này đạt số toàn diện và ứng dụng AI trị giá 256 triệu US",
+        "context_ids": [
+          "4064"
+        ]
+      },
+      {
+        "event": "invalid_or_missing_citations"
+      }
+    ],
+    "query_id": "test_02"
+  },
+  {
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "Trường Hy Vọng nhận được giải thưởng gì trong năm 2025?",
+        "filter": null,
+        "results": [
+          {
+            "id": "4688",
+            "text": " vững\nMôi trường làm việc đẳng cấp, “Hy Vọng” mở ra cơ hội đến trường cho những em nhỏ chịu nhiều mất mát vì\nhạnh phúc\nđại dịch Covid-19. Trong suốt 05 năm qua, trường Hy Vọng là mái nhà chung ấm áp,\nHoạt động vì môi trường xanh nơi các em được yêu thương, học tập và trưởng thành. Năm 2025, Trường Hy Vọng\nSong hành vì sự phát triển cộng đồng rộng 6.500 m² hoàn thành sau gần hai năm xây dựng, trở thành ngôi nhà mới của\nhơn 300 học sinh thuộc 13 dân tộc, với đầy đủ điều kiện để các em phát triển t",
+            "source_id": "fpt_bctn_2025",
+            "source": "fpt_bctn_2025",
+            "page": 156,
+            "metadata": {
+              "section": "08 BÁO CÀO TÀI CHÍNH HỢP NHẤT\nT"
+            },
+            "score": 0.8238426866906671
+          },
+          {
+            "id": "4456",
+            "text": "LÀM CHỦ\n• Cộng đồng\nCÔNG NGHỆ CHIẾN LƯỢC\nBÁO CÁO THƯỜNG NIÊN 2025\nChương trình hành động nổi bật Kết quả năm 2025\nChung tay cùng cộng đồng vượt qua • Trường Hy Vọng nhận giải thưởng Hành động vì cộng đồng ở hạng mục Dự án kịp thời;\n01 THÔNG ĐIỆP BAN LÃNH ĐẠO\nthách thức vì một cuộc sống tốt đẹp hơn\n• 15 năm liên tiếp triển khai Ngày FPT vì cộng đồng;\n02 DẤU ẤN 2025 • 26 điểm trường thiệt hại nặng được tái thiết kịp thời sau lũ;\n• Triển khai dự án máy khử rung tim tự động cho cộng đồng đầu tiên tạ",
+            "source_id": "fpt_bctn_2025",
+            "source": "fpt_bctn_2025",
+            "page": 124,
+            "metadata": {
+              "section": "08 BÁO CÀO TÀI CHÍNH HỢP NHẤT"
+            },
+            "score": 0.8178172625518273
+          },
+          {
+            "id": "3828",
+            "text": "LÀM CHỦ\nCÔNG NGHỆ CHIẾN LƯỢC\nBÁO CÁO THƯỜNG NIÊN 2025\n01 THÔNG ĐIỆP BAN LÃNH ĐẠO\n02 DẤU ẤN 2025\nCon số nổi bật\nGiải thưởng tiêu biểu\nHoạt động nổi bật\nDự án AI nổi bật\nChiêu mộ Navisoft giải bài toán Khánh thành Tổ hợp giáo dục tại Triển khai Dự án máy khử rung\n03 TỔNG QUAN VỀ FPT\nđặc thù của lĩnh vực chứng khoán, Huế triển khai mô hình tổ hợp tim tự động nâng cao hiệu quả\n04 CHIẾN LƯỢC PHÁT TRIỂN\ntài chính-ngân hàng giáo dục đa bậc học cấp cứu tại cộng đồng\n05 PHÂN TÍCH HOẠT ĐỘNG KINH DOANH\nCôn",
+            "source_id": "fpt_bctn_2025",
+            "source": "fpt_bctn_2025",
+            "page": 19,
+            "metadata": {
+              "section": "08 BÁO CÁO TÀI CHÍNH HỢP NHẤT"
+            },
+            "score": 0.7424327442130209
+          }
+        ],
+        "context": "[4688 | fpt_bctn_2025 | page 156]\n vững\nMôi trường làm việc đẳng cấp, “Hy Vọng” mở ra cơ hội đến trường cho những em nhỏ chịu nhiều mất mát vì\nhạnh phúc\nđại dịch Covid-19. Trong suốt 05 năm qua, trường Hy Vọng là mái nhà chung ấm áp,\nHoạt động vì môi trường xanh nơi các em được yêu thương, học tập và trưởng thành. Năm 2025, Trường Hy Vọng\nSong hành vì sự phát triển cộng đồng rộng 6.500 m² hoàn thành sau gần hai năm xây dựng, trở thành ngôi nhà mới của\nhơn 300 học sinh thuộc 13 dân tộc, với đầy đủ điều kiện để các em phát triển t",
+        "context_ids": [
+          "4688"
+        ]
+      },
+      {
+        "event": "invalid_or_missing_citations"
+      }
+    ],
+    "query_id": "test_03"
+  },
+  {
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "Doanh thu lĩnh vực Dịch vụ CNTT cho thị trường trong nước năm 2025 tăng trưởng",
+        "filter": null,
+        "results": [
+          {
+            "id": "4096",
+            "text": "LÀM CHỦ Doanh thu lĩnh vực Dịch vụ CNTT cho thị trường trong nước đạt 9.093 tỷ đồng, Doanh thu hệ sinh thái Made by FPT giai đoạn 2021-2025\nCÔNG NGHỆ CHIẾN LƯỢC tăng trưởng 11,5% so với cùng kỳ. Tăng trưởng doanh thu được dẫn dắt đồng thời\nBÁO CÁO THƯỜNG NIÊN 2025 từ cả khối khách hàng Chính phủ và khu vực công, khối khách hàng doanh nghiệp,\nngân hàng, trong bối cảnh nhu cầu triển khai các nền tảng số, hệ thống quản trị\nquốc gia, hệ thống dữ liệu và chuyển đổi AI ngày càng gia tăng. 746 1.150 1.",
+            "source_id": "fpt_bctn_2025",
+            "source": "fpt_bctn_2025",
+            "page": 67,
+            "metadata": {
+              "section": "08 BÁO CÀO TÀI CHÍNH HỢP NHẤT"
+            },
+            "score": 0.8519507194507882
+          },
+          {
+            "id": "4064",
+            "text": "LÀM CHỦ Năm 2025, lĩnh vực Dịch vụ CNTT cho thị trường nước ngoài tiếp tục giữ vai trò trụ Tại khu vực châu Á-Thái Bình Dương, FPT gia tăng hiện diện trong các ngành\nCÔNG NGHỆ CHIẾN LƯỢC cột trong chiến lược tăng trưởng của Tập đoàn với doanh thu đạt 35.382 tỷ đồng, công nghiệp trọng điểm, đặc biệt là năng lượng và sản xuất. Hợp đồng chuyển đổi\nBÁO CÁO THƯỜNG NIÊN 2025 tăng 14,3%; lợi nhuận trước thuế đạt 5.467 tỷ đồng, tăng 14,6%. Kết quả này đạt số toàn diện và ứng dụng AI trị giá 256 triệu US",
+            "source_id": "fpt_bctn_2025",
+            "source": "fpt_bctn_2025",
+            "page": 62,
+            "metadata": {
+              "section": "08 BÁO CÀO TÀI CHÍNH HỢP NHẤT"
+            },
+            "score": 0.8024668104847715
+          },
+          {
+            "id": "3965",
+            "text": "ụ CNTT phải đối mặt với áp lực \"tái chứng\nvà chạy ứng dụng mà không cần quản lý cơ sở hạ tầng máy chủ vật lý hay ảo), với minh\" giá trị trong một môi trường bất định.\n02 DẤU ẤN 2025 mức tăng 131%.\n• Rủi ro về mô hình định giá và sự thay đổi cấu trúc doanh thu: Ngành Dịch vụ\n03 TỔNG QUAN VỀ FPT Song song với xu hướng tối ưu hạ tầng và triển khai AI linh hoạt, Agentic AI nổi lên CNTT chủ yếu vận hành theo mô hình tính phí dựa trên thời gian và nguồn lực (Time &\nnhư một động lực tăng trưởng mới của",
+            "source_id": "fpt_bctn_2025",
+            "source": "fpt_bctn_2025",
+            "page": 47,
+            "metadata": {
+              "section": "08 BÁO CÀO TÀI CHÍNH HỢP NHẤT L"
+            },
+            "score": 0.7949436635950264
+          }
+        ],
+        "context": "[4096 | fpt_bctn_2025 | page 67]\nLÀM CHỦ Doanh thu lĩnh vực Dịch vụ CNTT cho thị trường trong nước đạt 9.093 tỷ đồng, Doanh thu hệ sinh thái Made by FPT giai đoạn 2021-2025\nCÔNG NGHỆ CHIẾN LƯỢC tăng trưởng 11,5% so với cùng kỳ. Tăng trưởng doanh thu được dẫn dắt đồng thời\nBÁO CÁO THƯỜNG NIÊN 2025 từ cả khối khách hàng Chính phủ và khu vực công, khối khách hàng doanh nghiệp,\nngân hàng, trong bối cảnh nhu cầu triển khai các nền tảng số, hệ thống quản trị\nquốc gia, hệ thống dữ liệu và chuyển đổi AI ngày càng gia tăng. 746 1.150 1.",
+        "context_ids": [
+          "4096"
+        ]
+      },
+      {
+        "event": "invalid_or_missing_citations"
+      }
+    ],
+    "query_id": "test_04"
+  },
+  {
+    "status": "answered",
+    "answer": "[4131]  \nĐịa chỉ của trung tâm dữ liệu FPT Fornix HCM02 có diện tích gần 10.000 m2.",
+    "citations": [
+      "4131"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "trung tâm dữ liệu tiêu chuẩn quốc tế",
+        "filter": null,
+        "results": [
+          {
+            "id": "4131",
+            "text": "ạ tầng dữ liệu nhằm đón đầu nhu cầu gia tăng\nnhanh chóng từ AI, Cloud và Chuyển đổi số. Trong năm 2025, FPT chính thức\nđưa vào vận hành Trung tâm Dữ liệu FPT Fornix HCM02 tại Khu Công nghệ cao\nTp. Hồ Chí Minh với diện tích gần 10.000 m² và sức chứa lên tới 3.600 racks, được\nthiết kế theo tiêu chuẩn quốc tế và kiến trúc dự phòng cao. Trung tâm dữ liệu này FPT chính thức đưa vào vận hành Trung tâm Dữ liệu FPT Fornix HCM02 tại\nđóng vai trò hạ tầng trọng yếu cho các nền tảng công nghệ chiến lược của",
+            "source_id": "fpt_bctn_2025",
+            "source": "fpt_bctn_2025",
+            "page": 70,
+            "metadata": {
+              "section": "08 BÁO CÀO TÀI CHÍNH HỢP NHẤT\nT"
+            },
+            "score": 0.752961874714366
+          },
+          {
+            "id": "4474",
+            "text": "SO/IEC 27001:2022 Hệ thống Quản lý an ninh thông tin;\n02 DẤU ẤN 2025 • PCI DSS: Tiêu chuẩn bảo mật dành cho các tổ chức trong quá trình\n• ISO 22301: Tiêu chuẩn về Hệ thống quản lý liên tục trong kinh doanh;\nxử lý thẻ thanh toán quốc tế;\n03 TỔNG QUAN VỀ FPT • ISO/IEC 27017: Quy tắc thực hành về kiểm soát an toàn thông tin cho các • SOC 2 type 1, SOC 2 type 2, SOC 3: bộ tiêu chí để đánh giá độ tin cậy\ndịch vụ đám mây dựa trên ISO/IEC 27002;\nvề dịch vụ quản lý dữ liệu khách hàng được phát triển bởi",
+            "source_id": "fpt_bctn_2025",
+            "source": "fpt_bctn_2025",
+            "page": 127,
+            "metadata": {
+              "section": "08 BÁO CÀO TÀI CHÍNH HỢP NHẤT"
+            },
+            "score": 0.7454720350876111
+          },
+          {
+            "id": "4479",
+            "text": "uy tắc thực hành về kiểm soát an toàn thông tin cho các\ndịch vụ đám mây dựa trên ISO/IEC 27002; • TIA 942B Constructed Facility Rated 3: Tiêu chuẩn về thiết lập và\nvận hành hạ tầng Trung tâm dữ liệu – hạ tầng đã được thiết lập và\n• Uptime Design Tier III: Tiêu chuẩn về thiết kế hạ tầng Trung tâm dữ liệu – hạ tầng\nvận hành đảm bảo tính dự phòng, không gián đoạn dịch vụ khi thực\nđược thiết kế đảm bảo tính dự phòng, không gián đoạn dịch vụ khi thực hiện\nhiện bảo trì;\nbảo trì;\n• ISO 22301: Tiêu chuẩ",
+            "source_id": "fpt_bctn_2025",
+            "source": "fpt_bctn_2025",
+            "page": 127,
+            "metadata": {
+              "section": "08 BÁO CÀO TÀI CHÍNH HỢP NHẤT"
+            },
+            "score": 0.7416762689772505
+          }
+        ],
+        "context": "[4131 | fpt_bctn_2025 | page 70]\nạ tầng dữ liệu nhằm đón đầu nhu cầu gia tăng\nnhanh chóng từ AI, Cloud và Chuyển đổi số. Trong năm 2025, FPT chính thức\nđưa vào vận hành Trung tâm Dữ liệu FPT Fornix HCM02 tại Khu Công nghệ cao\nTp. Hồ Chí Minh với diện tích gần 10.000 m² và sức chứa lên tới 3.600 racks, được\nthiết kế theo tiêu chuẩn quốc tế và kiến trúc dự phòng cao. Trung tâm dữ liệu này FPT chính thức đưa vào vận hành Trung tâm Dữ liệu FPT Fornix HCM02 tại\nđóng vai trò hạ tầng trọng yếu cho các nền tảng công nghệ chiến lược của",
+        "context_ids": [
+          "4131"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "query_id": "test_05"
+  },
+  {
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "dự kiến đầu tư FPT vào Châu Âu 2027",
+        "filter": null,
+        "results": [
+          {
+            "id": "4066",
+            "text": "hặt chẽ ngân sách CNTT chiến lược. Hợp đồng này góp phần củng cố vai trò của khu vực Đông Nam Á và\n01 THÔNG ĐIỆP BAN LÃNH ĐẠO\nvà kéo dài chu kỳ ra quyết định đầu tư. APAC trong chiến lược tăng trưởng dài hạn của FPT, đồng thời mở ra cơ hội mở\nrộng sang các lĩnh vực liên quan trong chuỗi giá trị năng lượng và công nghiệp.\n02 DẤU ẤN 2025\nChất lượng tăng trưởng của lĩnh vực Dịch vụ CNTT cho thị trường nước ngoài của\nFPT được cải thiện rõ nét, thể hiện qua cơ cấu hợp đồng dài hạn, giá trị lớn và phạ",
+            "source_id": "fpt_bctn_2025",
+            "source": "fpt_bctn_2025",
+            "page": 62,
+            "metadata": {
+              "section": "08 BÁO CÀO TÀI CHÍNH HỢP NHẤT"
+            },
+            "score": 0.7560717899671312
+          },
+          {
+            "id": "4067",
+            "text": "ện qua cơ cấu hợp đồng dài hạn, giá trị lớn và phạm vi Tại châu Âu và Bắc Mỹ, FPT tiếp tục đẩy mạnh hoạt động thông qua các hợp đồng\n03 TỔNG QUAN VỀ FPT dịch vụ ngày càng toàn diện. Việc duy trì đà tăng trưởng ổn định trong điều kiện thị chuyển đổi số quy mô lớn và hợp tác với các đối tác hàng đầu trong lĩnh vực\ntrường khó khăn cho thấy năng lực thích ứng, sức cạnh tranh và vị thế ngày càng công nghệ và dịch vụ hạ tầng CNTT. Việc đảm nhận vai trò đối tác chính và\n04 CHIẾN LƯỢC PHÁT TRIỂN vững ch",
+            "source_id": "fpt_bctn_2025",
+            "source": "fpt_bctn_2025",
+            "page": 62,
+            "metadata": {
+              "section": "08 BÁO CÀO TÀI CHÍNH HỢP NHẤT"
+            },
+            "score": 0.7560283527307153
+          },
+          {
+            "id": "4336",
+            "text": "ông nghệ, tài chính, nhân sự nhiều doanh nghiệp trên quy mô toàn cầu. Chúng tôi\nvà chiến lược M&A, đồng thời luôn sẵn sàng tiếp thu cũng vô cùng tự hào về vai trò ngày càng quan trọng\ný kiến từ các thành viên HĐQT độc lập về hoạt động của FPT đối với các doanh nghiệp Nhật Bản sau\ntài chính, đầu tư và định hướng kinh doanh trong 20 năm có mặt tại thị trường này. Tôi tin tưởng, FPT\nngắn hạn cũng như trung và dài hạn. sẽ tiếp tục tiến bước và đạt được nhiều thành tựu hơn nữa.\n101",
+            "source_id": "fpt_bctn_2025",
+            "source": "fpt_bctn_2025",
+            "page": 102,
+            "metadata": {
+              "section": "08 BÁO CÀO TÀI CHÍNH HỢP NHẤT"
+            },
+            "score": 0.7524782059231816
+          }
+        ],
+        "context": "[4066 | fpt_bctn_2025 | page 62]\nhặt chẽ ngân sách CNTT chiến lược. Hợp đồng này góp phần củng cố vai trò của khu vực Đông Nam Á và\n01 THÔNG ĐIỆP BAN LÃNH ĐẠO\nvà kéo dài chu kỳ ra quyết định đầu tư. APAC trong chiến lược tăng trưởng dài hạn của FPT, đồng thời mở ra cơ hội mở\nrộng sang các lĩnh vực liên quan trong chuỗi giá trị năng lượng và công nghiệp.\n02 DẤU ẤN 2025\nChất lượng tăng trưởng của lĩnh vực Dịch vụ CNTT cho thị trường nước ngoài của\nFPT được cải thiện rõ nét, thể hiện qua cơ cấu hợp đồng dài hạn, giá trị lớn và phạ",
+        "context_ids": [
+          "4066"
+        ]
+      },
+      {
+        "event": "invalid_or_missing_citations"
+      }
+    ],
+    "query_id": "test_06"
+  },
+  {
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "Doanh thu mảng sản xuất xe điện của FPT trong năm 2025 là bao nhiêu?",
+        "filter": null,
+        "results": [
+          {
+            "id": "5023",
+            "text": "2 năm 2025\n03 TỔNG QUAN VỀ FPT\nĐơn vị: Triệu VNĐ Đơn vị: VNĐ\n04 CHIẾN LƯỢC PHÁT TRIỂN\nViệt Nam Nước ngoài Tổng 2025 2024\n05 PHÂN TÍCH HOẠT ĐỘNG KINH DOANH i) Bán hàng và cung cấp dịch vụ\nDoanh thu thuần 34.290.139 35.822.686 35.822.686\nCông ty Cổ phần Bán lẻ Kỹ thuật số FPT 535.438.239.866 396.379.410.434\n06 QUẢN TRỊ CÔNG TY\nCông ty Cổ phần Synnex FPT 10.341.570.977 23.528.897.486\nCho năm tài chính kết thúc ngày 31 tháng 12 năm 2024\n07 BÁO CÁO ESG Đơn vị: Triệu VNĐ 545.779.810.843 419.908.307.92",
+            "source_id": "fpt_bctn_2025",
+            "source": "fpt_bctn_2025",
+            "page": 214,
+            "metadata": {
+              "section": "08 BÁO CÀO TÀI CHÍNH HỢP NHẤT V"
+            },
+            "score": 0.7933265227098452
+          },
+          {
+            "id": "4064",
+            "text": "LÀM CHỦ Năm 2025, lĩnh vực Dịch vụ CNTT cho thị trường nước ngoài tiếp tục giữ vai trò trụ Tại khu vực châu Á-Thái Bình Dương, FPT gia tăng hiện diện trong các ngành\nCÔNG NGHỆ CHIẾN LƯỢC cột trong chiến lược tăng trưởng của Tập đoàn với doanh thu đạt 35.382 tỷ đồng, công nghiệp trọng điểm, đặc biệt là năng lượng và sản xuất. Hợp đồng chuyển đổi\nBÁO CÁO THƯỜNG NIÊN 2025 tăng 14,3%; lợi nhuận trước thuế đạt 5.467 tỷ đồng, tăng 14,6%. Kết quả này đạt số toàn diện và ứng dụng AI trị giá 256 triệu US",
+            "source_id": "fpt_bctn_2025",
+            "source": "fpt_bctn_2025",
+            "page": 62,
+            "metadata": {
+              "section": "08 BÁO CÀO TÀI CHÍNH HỢP NHẤT"
+            },
+            "score": 0.7896817185810817
+          },
+          {
+            "id": "4088",
+            "text": "2025 +/-\ntheo ngành và theo nền tảng công nghệ, đồng thời cho thấy năng lực triển khai\n01 THÔNG ĐIỆP BAN LÃNH ĐẠO\nnhất quán của FPT trên quy mô toàn cầu.\nTổng nhân sự bình quân (người) 28.814 31.208 8,3%\n02 DẤU ẤN 2025\nDoanh thu từ Dịch vụ AI/Data Analytics\n03 TỔNG QUAN VỀ FPT Tổng nhân sự bình quân 26.586 29.899 12,5%\nsản xuất (người)\n04 CHIẾN LƯỢC PHÁT TRIỂN\n980 1.221 1.856 2.612\n3.000 Doanh thu/người (triệu VNĐ) 1.037 1.116 7,6%\n05 PHÂN TÍCH HOẠT ĐỘNG KINH DOANH\n2.500\nBáo cáo của Ban Điều hàn",
+            "source_id": "fpt_bctn_2025",
+            "source": "fpt_bctn_2025",
+            "page": 65,
+            "metadata": {
+              "section": "08 BÁO CÀO TÀI CHÍNH HỢP NHẤT\nĐ"
+            },
+            "score": 0.7880411943332384
+          }
+        ],
+        "context": "[5023 | fpt_bctn_2025 | page 214]\n2 năm 2025\n03 TỔNG QUAN VỀ FPT\nĐơn vị: Triệu VNĐ Đơn vị: VNĐ\n04 CHIẾN LƯỢC PHÁT TRIỂN\nViệt Nam Nước ngoài Tổng 2025 2024\n05 PHÂN TÍCH HOẠT ĐỘNG KINH DOANH i) Bán hàng và cung cấp dịch vụ\nDoanh thu thuần 34.290.139 35.822.686 35.822.686\nCông ty Cổ phần Bán lẻ Kỹ thuật số FPT 535.438.239.866 396.379.410.434\n06 QUẢN TRỊ CÔNG TY\nCông ty Cổ phần Synnex FPT 10.341.570.977 23.528.897.486\nCho năm tài chính kết thúc ngày 31 tháng 12 năm 2024\n07 BÁO CÁO ESG Đơn vị: Triệu VNĐ 545.779.810.843 419.908.307.92",
+        "context_ids": [
+          "5023"
+        ]
+      },
+      {
+        "event": "invalid_or_missing_citations"
+      }
+    ],
+    "query_id": "test_07"
+  }
+]

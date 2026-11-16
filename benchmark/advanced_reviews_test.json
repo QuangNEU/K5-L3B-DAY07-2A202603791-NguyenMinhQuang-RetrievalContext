@@ -1,0 +1,215 @@
+[
+  {
+    "query_id": "adv_test_01",
+    "answer_grade": 2,
+    "citation_support": [
+      true,
+      true
+    ],
+    "category": "Bảng"
+  },
+  {
+    "query_id": "adv_test_02",
+    "answer_grade": 2,
+    "citation_support": [
+      true,
+      true
+    ],
+    "category": "Bảng"
+  },
+  {
+    "query_id": "adv_test_03",
+    "answer_grade": 0,
+    "citation_support": [],
+    "category": "Bảng"
+  },
+  {
+    "query_id": "adv_test_04",
+    "answer_grade": 0,
+    "citation_support": [],
+    "category": "Bảng"
+  },
+  {
+    "query_id": "adv_test_05",
+    "answer_grade": 2,
+    "citation_support": [
+      true,
+      true
+    ],
+    "category": "Bảng"
+  },
+  {
+    "query_id": "adv_test_06",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "category": "Bảng"
+  },
+  {
+    "query_id": "adv_test_07",
+    "answer_grade": 0,
+    "citation_support": [],
+    "category": "Ảnh, sơ đồ"
+  },
+  {
+    "query_id": "adv_test_08",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "category": "Ảnh, sơ đồ"
+  },
+  {
+    "query_id": "adv_test_09",
+    "answer_grade": 0,
+    "citation_support": [],
+    "category": "Ảnh, sơ đồ"
+  },
+  {
+    "query_id": "adv_test_10",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "category": "Ảnh, sơ đồ"
+  },
+  {
+    "query_id": "adv_test_11",
+    "answer_grade": 0,
+    "citation_support": [],
+    "category": "Ảnh, sơ đồ"
+  },
+  {
+    "query_id": "adv_test_12",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "category": "Biểu đồ"
+  },
+  {
+    "query_id": "adv_test_13",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "category": "Biểu đồ"
+  },
+  {
+    "query_id": "adv_test_14",
+    "answer_grade": 0,
+    "citation_support": [],
+    "category": "Biểu đồ"
+  },
+  {
+    "query_id": "adv_test_15",
+    "answer_grade": 0,
+    "citation_support": [],
+    "category": "Biểu đồ"
+  },
+  {
+    "query_id": "adv_test_16",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "category": "Biểu đồ"
+  },
+  {
+    "query_id": "adv_test_17",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "category": "Multi-hop"
+  },
+  {
+    "query_id": "adv_test_18",
+    "answer_grade": 0,
+    "citation_support": [],
+    "category": "Multi-hop"
+  },
+  {
+    "query_id": "adv_test_19",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "category": "Multi-hop"
+  },
+  {
+    "query_id": "adv_test_20",
+    "answer_grade": 2,
+    "citation_support": [
+      true,
+      true,
+      true
+    ],
+    "category": "Multi-hop"
+  },
+  {
+    "query_id": "adv_test_21",
+    "answer_grade": 0,
+    "citation_support": [],
+    "category": "Text"
+  },
+  {
+    "query_id": "adv_test_22",
+    "answer_grade": 0,
+    "citation_support": [],
+    "category": "Text"
+  },
+  {
+    "query_id": "adv_test_23",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "category": "Text"
+  },
+  {
+    "query_id": "adv_test_24",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "category": "Text"
+  },
+  {
+    "query_id": "adv_test_25",
+    "abstention_correct": true,
+    "citation_support": [],
+    "category": "Thiếu bằng chứng"
+  },
+  {
+    "query_id": "adv_test_26",
+    "abstention_correct": true,
+    "citation_support": [],
+    "category": "Thiếu bằng chứng"
+  },
+  {
+    "query_id": "adv_test_27",
+    "abstention_correct": true,
+    "citation_support": [],
+    "category": "Thiếu bằng chứng"
+  },
+  {
+    "query_id": "adv_test_28",
+    "abstention_correct": true,
+    "citation_support": [],
+    "category": "Thiếu bằng chứng"
+  },
+  {
+    "query_id": "adv_test_29",
+    "abstention_correct": true,
+    "citation_support": [],
+    "category": "Thiếu bằng chứng"
+  },
+  {
+    "query_id": "adv_test_30",
+    "abstention_correct": true,
+    "citation_support": [],
+    "category": "Thiếu bằng chứng"
+  }
+]

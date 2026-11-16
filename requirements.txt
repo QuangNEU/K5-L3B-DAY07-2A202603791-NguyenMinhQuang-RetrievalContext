@@ -1,0 +1,11 @@
+# Core setup and PDF parsing. Choose and install an embedding SDK separately.
+psycopg[binary]==3.3.8
+pgvector
+python-dotenv>=1,<2
+
+# PDF Parsing & Chunking
+pypdf>=5,<7
+pdfplumber
+
+# LLM & Embedding SDK (Chọn 1 hoặc nhiều tùy kiến trúc của bạn)
+ollama          
